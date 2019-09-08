@@ -3,3 +3,4 @@ sessions
 bin/private.key
 bin/cert.csr
 bin/certificate.pem
+credentials.js
